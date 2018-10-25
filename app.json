@@ -1,0 +1,16 @@
+{
+  "name": "ambassador",
+  "scripts": {
+    "pr-predestroy": "HUBOT_SLACK_TOKEN=xoxb-460329847504-462828719058-SfxWTo5jtWrsXKc9EHGXDXS3"
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
